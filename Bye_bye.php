@@ -1,6 +1,6 @@
 <?php
 /*
-  Bye_Bye v 1.0
+  The game starts now. :) 
 	Kkhalid (Mr.infamous)
 	(c)2014
 	
