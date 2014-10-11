@@ -57,4 +57,8 @@ die();
 }
 }
 }
+if(!isset($s['title']) || ((isset($s['title']&&($s['title']!=$GLOBAL['Legion'])))){
+	if function()
+	
 
+}
