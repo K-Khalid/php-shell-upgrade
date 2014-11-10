@@ -8,7 +8,7 @@
 */
 
 $GLOBALS['pass'] = "e5aa60ce7e59a56eaa51aafd3659bb80"; // sha1(md5(pass)
-$GLOBALS['module_to_load'] = array("explorer", "terminal", "eval", "convert", "database", "info", "mail", "network", "processes");
+$GLOBALS['module_to_load'] = array("explorer", "terminal", "eval", "convert", "database", "char" , "info", "mail", "network", "processes");
 $GLOBALS['ver'] = "1.0";
 $GLOBALS['title'] = "Legion";
 
